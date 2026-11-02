@@ -319,8 +319,6 @@ ALL 4 TEST CASES PASSED SUCCESSFULLY! (100% PASS RATE)
 Quiz-Application--Python-Project-Rungta-/
 │
 ├── quiz.py           # Core application file (Single-file solution fulfilling Requirement 1)
-├── main.py           # Standard entry-point wrapper importing quiz.main()
-├── test_quiz.py      # Automated testing suite asserting all 4 benchmark test cases
 ├── README.md         # Comprehensive academic documentation and laboratory report
 └── .git/             # Git version control metadata
 ```
@@ -376,7 +374,8 @@ Here are textbook-quality explanations for questions frequently asked by externa
 - **Academic Institution:** Rungta International Skills University (RISU)
 - **Department:** School of Computer Science and Engineering
 - **Program:** Bachelor of Technology (B.Tech - CSE)
-- **Course:** Problem Solving with Python Lab
+- **Name:** Hariom Sharan
+- **Branch:** CSE AI/ML
 - **Problem Statement:** PS No. 7 (Quiz Application)
 - **Submission Date:** November 2026
 
